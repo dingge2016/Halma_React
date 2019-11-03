@@ -1,1 +1,1 @@
-A frondEnd Project to build a Halma Board
+A frontend project to build a Halma board
